@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "add"
+git remote add origin https://github.com/dongtixot2015/dongtixot2015.git
+git push -u -f origin main
+git push -u -f origin master
+history
+doskey /history
